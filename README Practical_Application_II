@@ -1,0 +1,5 @@
+Summary:
+For this exercise, I tried LASSO, Ridge and also Random Forest to evaluate the dataset, finding the mean square error value to determine which model performed best. 
+Both LASSO and Ridge Regression performed decently with R2 score around 76.4%
+I was able to predict the car pricing with the Ridge Regression, and I was amazed that some of the predicted price are very closed to the actual price. 
+This was a great project to practice data cleaning and transformation, modeling, evaluation metrics, visualization by plots, founding the coefficient and permutation importance, predicting the pricing and interpret the result. 
